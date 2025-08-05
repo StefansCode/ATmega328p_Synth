@@ -12,10 +12,13 @@ My main learning resources are:
 
 ATmega328P_Datasheet:
     http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
+
 Arduino-Nano-Pinout: 
     https://www.electronicshub.org/wp-content/uploads/2021/01/Arduino-Nano-Pinout.jpg
+
 Youtube playlist about programming microcontrollers without Arduino:
     https://www.youtube.com/playlist?list=PLNyfXcjhOAwOF-7S-ZoW2wuQ6Y-4hfjMR
+    
 Youtube Video about Arduino timers and interupts:
     https://www.youtube.com/watch?v=Uv9UeYUsA8A&list=PLsR1AO4QH1AyR0HEQH9eq53K9RSfzXsbD&index=4
 
