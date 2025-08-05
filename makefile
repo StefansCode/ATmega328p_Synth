@@ -1,5 +1,9 @@
+CC = avr-gcc				# Compiler
+MCU = atmega328p			# Microcontroler
+CFLAGS = -mmcu=$(MCU) -Os	# avr-gcc specific flags
+
 all:
-	avr-gcc -mmcu=atmega328p -Os -o main.elf main.c
+	${CC} ${CFLAGS} -o main.elf main.c
 	avr-objcopy -O ihex -R .eeprom main.elf main.hex
 
 flash:
